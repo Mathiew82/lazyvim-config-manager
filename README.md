@@ -1,4 +1,4 @@
-# lazyvim-config-manager
+# 🧩 LazyVim Config Manager
 
 ![](screenshot.png)
 
