@@ -17,7 +17,7 @@ print(
 selection = input("")
 
 if selection == "1":
-    system("git clone git@github.com:Mathiew82/lazyvim-config.git ~/.config/nvim")
+    system("git clone https://github.com/Mathiew82/lazyvim-config.git ~/.config/nvim")
     print(" Installation was successful!")
 elif selection == "2":
     try:
@@ -27,7 +27,7 @@ elif selection == "2":
     except Exception as e:
         print(e)
 
-    system("git clone git@github.com:Mathiew82/lazyvim-config.git ~/.config/nvim")
+    system("git clone https://github.com/Mathiew82/lazyvim-config.git ~/.config/nvim")
     print(" Update was successful!")
 elif selection == "3":
     try:
@@ -88,7 +88,7 @@ elif selection == "4":
     except Exception as e:
         print(e)
 
-    system("git clone git@github.com:Mathiew82/lazyvim-config.git ~/.config/nvim")
+    system("git clone https://github.com/Mathiew82/lazyvim-config.git ~/.config/nvim")
     print(" Uninstall and installation was successful!")
 
 #
