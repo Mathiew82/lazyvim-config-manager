@@ -2,8 +2,11 @@ from os import system
 
 print(
     """
-   Welcome to NeoVim config manager
-    --------------------------------
+    ┳┓  ┏┓  ┏┓  ┓┏  ┳  ┳┳┓
+    ┃┃  ┣   ┃┃  ┃┃  ┃  ┃┃┃
+    ┛┗  ┗┛  ┗┛  ┗┛  ┻  ┛ ┗
+    | Manage your config |
+    ----------------------
     Select a option: (write a number and press enter)
 
  1. Install
