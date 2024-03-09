@@ -1,4 +1,4 @@
-# 💤 LazyVim Config Manager
+# 💤 [LazyVim](https://www.lazyvim.org/) Config Manager
 > [!NOTE]  
 > It does not install or uninstall Neovim, it only manages its configuration.
 
